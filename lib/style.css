@@ -1,0 +1,11 @@
+.row {
+    padding: 5px 0;
+}
+
+/*input {
+    height: 50px;
+    width: 50px;
+}*/
+.table-bordered {
+    border-radius: 10px;
+}
